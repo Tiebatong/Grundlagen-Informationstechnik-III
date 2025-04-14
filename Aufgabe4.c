@@ -1,3 +1,11 @@
+/*
+Es soll im Folgenden der Durchmesser, die Oberfläche und das Volumen einer Kugel anhand des
+Radius berechnet werden. Der Radius wird von der Tastatur eingelesen. Die Ergebnisse der Be-
+rechnungen von Durchmesser, Oberfläche und Volumen sollen in dieser Reihenfolge in einem Ar-
+ray gespeichert werden! Die Kreiszahl PI soll als Konstante im Programm verankert werden. Zum
+Schluss sollen Durchmesser, Oberfläche und Volumen auf dem Bildschinn ausgegeben werden.
+Schreiben sie unten das entsprechende C-Programm.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
